@@ -1,3 +1,4 @@
+# Note for kartik -> pip3 install alpha_vantage for the library
 from alpha_vantage.timeseries import TimeSeries
 
 key = 'F4CFN31ZCO1PVA69'
